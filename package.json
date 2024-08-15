@@ -1,0 +1,24 @@
+{
+  "name": "@ungap/abort-signal-any",
+  "version": "0.1.0",
+  "description": "AbortSignal.any() polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "AbortSignal",
+    "any",
+    "polyfill"
+  ],
+  "author": "Faris Masad",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungap/abort-signal-any.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ungap/abort-signal-any/issues"
+  },
+  "homepage": "https://github.com/ungap/abort-signal-any#readme"
+}
